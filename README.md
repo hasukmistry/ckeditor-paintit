@@ -6,7 +6,7 @@ Highly relies on wPaint.js : A jQuery paint plugin for a simple drawing surface 
 
 Click on the icon that is added after integrating plugin.
 
-![Integration in ckeditor 4.x](./paintIt/assets/ckeditor_test_1.png "Integration in ckeditor 4.x")
+![Integration in ckeditor 4.x](./paintIt/assets/ckeditor_test.png "Integration in ckeditor 4.x")
 
 Draw lovely painting, Put some nice colors and write randomly with pencil.
 
