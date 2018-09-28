@@ -4,10 +4,6 @@ Highly relies on wPaint.js : A jQuery paint plugin for a simple drawing surface 
 
 # Screenshots
 
-![Initial layout](./paintIt/assets/paint_it_1.png "Initial layout")
-
-![Objects in canvas](./paintIt/assets/paint_it_2.png "Objects in canvas")
-
 Click on the icon that is added after integrating plugin.
 
 ![Integration in ckeditor 4.x](./paintIt/assets/ckeditor_test_1.png "Integration in ckeditor 4.x")
